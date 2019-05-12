@@ -18,3 +18,4 @@ class EncryptCookies extends Middleware
 # Change 1 on 2019-04-20
 # Change 0 on 2019-05-06
 # Change 1 on 2019-05-14
+# Change 0 on 2019-05-12
