@@ -154,3 +154,4 @@ class AuthController extends Controller
 # Change 0 on 2019-04-14
 # Change 1 on 2019-04-26
 # Change 2 on 2019-04-26
+# Change 0 on 2019-05-19
